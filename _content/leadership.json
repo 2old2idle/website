@@ -11,6 +11,36 @@
       "title": "Men's Co-President",
       "photo": "assets/images/team/nikhil-palanki.jpg",
       "linkedin": "https://www.linkedin.com/in/nikhilpalanki/"
+    },
+    {
+      "name": "Carlo Muser",
+      "title": "VP of Coaching",
+      "photo": "assets/images/team/carlo-muser.jpg",
+      "linkedin": "https://www.linkedin.com/in/carlomuser//"
+    },
+    {
+      "name": "Griffin Miller",
+      "title": "VP of Coaching",
+      "photo": "assets/images/team/griffin-miller.jpg",
+      "linkedin": "https://www.linkedin.com/in/griffinkmiller/"
+    },
+    {
+      "name": "Jason Hunter",
+      "title": "VP of General Management",
+      "photo": "assets/images/team/jason-hunter.jpg",
+      "linkedin": "https://www.linkedin.com/in/jasontylerhunter/"
+    },
+    {
+      "name": "Asa Miller",
+      "title": "VP of General Management",
+      "photo": "assets/images/team/asa-miller.jpg",
+      "linkedin": "https://www.linkedin.com/in/asa-l-miller-iv/"
+    },
+    {
+      "name": "Jesse LaFauci",
+      "title": "VP of Finance",
+      "photo": "assets/images/team/jesse-lafauci.jpg",
+      "linkedin": "https://www.linkedin.com/in/jesse-james-lafauci/"
     }
   ]
 }

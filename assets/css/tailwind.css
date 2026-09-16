@@ -2,6 +2,24 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Instagram post visibility follows the same one/two/three-column layout. */
+.instagram-post-medium,
+.instagram-post-wide {
+  display: none;
+}
+
+@media (min-width: 768px) {
+  .instagram-post-medium {
+    display: block;
+  }
+}
+
+@media (min-width: 1280px) {
+  .instagram-post-wide {
+    display: block;
+  }
+}
+
 /* =========================================================
    ANIMATION SYSTEM — scroll-triggered fade-ins
    ========================================================= */
